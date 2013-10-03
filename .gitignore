@@ -16,3 +16,11 @@ MYMETA.yml
 /_build/
 /local/
 /.carton/
+
+# Vim
+*.sw[po]
+*~
+
+# Others
+*.tar.gz
+.DS_Store
